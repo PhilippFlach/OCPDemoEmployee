@@ -1,0 +1,6 @@
+Q:\VSDev\Source\Repos\OCPDemoEmployee\OCPLibrary\bin\Debug\OCPLibrary.dll
+Q:\VSDev\Source\Repos\OCPDemoEmployee\OCPLibrary\bin\Debug\OCPLibrary.pdb
+Q:\VSDev\Source\Repos\OCPDemoEmployee\OCPLibrary\obj\Debug\OCPLibrary.csproj.AssemblyReference.cache
+Q:\VSDev\Source\Repos\OCPDemoEmployee\OCPLibrary\obj\Debug\OCPLibrary.csproj.CoreCompileInputs.cache
+Q:\VSDev\Source\Repos\OCPDemoEmployee\OCPLibrary\obj\Debug\OCPLibrary.dll
+Q:\VSDev\Source\Repos\OCPDemoEmployee\OCPLibrary\obj\Debug\OCPLibrary.pdb

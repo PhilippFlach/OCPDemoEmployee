@@ -1,0 +1,11 @@
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\bin\Debug\ConsoleUI.exe
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\bin\Debug\ConsoleUI.pdb
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\bin\Debug\OCPLibrary.dll
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\bin\Debug\OCPLibrary.pdb
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\obj\Debug\ConsoleUI.exe
+Q:\VSDev\Source\Repos\OCPDemoEmployee\ConsoleUI\obj\Debug\ConsoleUI.pdb
